@@ -15,21 +15,26 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global subscription analytics and billing management market is estimated at approximately **$8–9 billion** (projected to surpass $18 billion by 2030 at ~15% CAGR). The sector exhibits **moderate fragmentation with strong consolidation pressure at the payment layer**: foundational infrastructure is dominated by mega-scale merchant-of-record/payment providers (e.g., Stripe, Paddle) who absorb analytics features as retention utilities, while a fragmented long-tail of specialized, independent analytics and dashboard providers compete on deeper cohort segmentation, multi-billing orchestration, and developer flexibility.
+
 ## SaaS/Hosted Platforms
 
-| Product | Description | Pricing (Starting) | Free Tier / Trial Limits |
-|---------|-------------|-------------------|--------------------------|
-| **[ProfitWell Metrics (Paddle)](https://www.profitwell.com/)** | **The free standard for SaaS subscription analytics.** Tracks MRR, churn, LTV, and benchmark data across 30,000+ companies. Acquired by Paddle; the core metrics product remains **free forever**—monetization comes from Paddle's payment processing and Retain services . | **Free** (core metrics) | **Free forever**: MRR, churn, LTV, benchmarking, and cohort retention |
-| **[ChartMogul](https://chartmogul.com/)** | Subscription analytics and revenue reporting. **Pro: $1,188–$14,388/year**; Enterprise from **$19,900/year** . Positioned for SaaS teams wanting deeper segmentation and reporting than free tools provide. | Pro: **$1,188/year** (up to $10K MRR); Enterprise: **$19,900/year** | Free trial available; no permanent free tier |
-| **[Baremetrics](https://baremetrics.com/)** | Subscription analytics with MRR, churn, LTV, and forecasting. Positioned as the original Stripe analytics tool. | Quote-only | Free trial available |
-| **[Stripe Sigma](https://stripe.com/sigma)** | SQL-based analytics over Stripe data. **$0.03 per query** beyond included allowance; requires Stripe account . Positioned for teams wanting raw data access without a dedicated analytics platform. | **$0.03/query** | No free tier; included query allowance varies |
-| **[Databox SaaS Metrics](https://databox.com/)** | Dashboard builder with pre-built SaaS metric templates. Connects to Stripe, ChartMogul, and other sources. | Free tier available; paid plans via sales | **Free tier** available with limited data sources |
-| **[Geckoboard](https://www.geckoboard.com/)** | TV dashboard builder for SaaS metrics. Pre-built integrations with Stripe and subscription platforms. | Quote-only | **14-day free trial**; no permanent free tier |
+| Product | Company Size (Valuation / Revenue) | Starting Paid Pricing | Free Tier / Trial Limits | Description |
+|---|---|---|---|---|
+| **[Stripe Sigma](https://stripe.com/sigma)** | **~$159B valuation** (~$6.8B net revenue) | **$10–$15/month** (tiers based on successful monthly charge volume) | **30-day free trial** with full SQL access & unmetered queries; **free forever** in Stripe Test Mode / sandboxes with zero query or usage limits | SQL-based analytics over Stripe data. Requires a Stripe account; positioned for teams wanting direct SQL querying and automated data export without deploying separate ETL pipelines. |
+| **[ProfitWell Metrics (Paddle)](https://www.profitwell.com/)** | **$1.4B parent valuation** (acquired for >$200M) | **Free** (core metrics); paid add-ons start via Retain & Price Intelligently | **Free forever** with unlimited team members, unlimited paying customers, and unlimited historical data for core MRR, churn, LTV, cohort retention, and benchmarking | **The free standard for SaaS subscription analytics.** Tracks MRR, churn, LTV, and benchmark data across 30,000+ companies. Acquired by Paddle; core metrics remain free forever—monetization comes from Paddle's payment processing and Retain dunning services. |
+| **[Databox SaaS Metrics](https://databox.com/)** | **~$8.4M–$20.5M ARR** (~$4.8M funding raised) | **$71/month** (Analyst plan billed annually; $79/mo billed monthly) | **Free forever plan**: limited to 1 user, 3 data source connections, 1 dashboard, 10 custom metrics, and daily data sync (plus 14-day free trial of paid plans) | Dashboard builder with pre-built SaaS metric templates. Connects to Stripe, ChartMogul, Google Analytics, and 100+ other sources to combine revenue metrics with product analytics. |
+| **[ChartMogul](https://chartmogul.com/)** | **~$7.2M ARR** (~$3.7M funding raised) | **$57/month** ($69/mo billed monthly for Starter tier for up to 3 users) | **Free forever plan**: valid up to **$10K MRR ($120K ARR)** with unlimited users and 1 primary billing source; paid plans offer a **14-day free trial** | Subscription analytics and revenue reporting. Provides cohort analysis, customer segmentation, MRR movement breakdown, and CRM data enrichment. |
+| **[Geckoboard](https://www.geckoboard.com/)** | **~$3.5M–$7.2M ARR** (~$4.1M funding raised) | **$60/month** ($79/mo billed monthly for Essentials tier) | **14-day free trial** with full access to all features, integrations, and dashboards (no credit card required; no permanent free tier) | TV dashboard builder for SaaS metrics. Pre-built integrations with Stripe, Chargebee, and Google Analytics designed for real-time team visibility. |
+| **[Baremetrics](https://baremetrics.com/)** | **$4M acquisition price** (~$1.5M ARR at acquisition) | **$49/month** (Launch tier for businesses up to $360K ARR; billed annually) | **14-day free trial** with full access to all metrics and dashboard features (no permanent free tier) | Subscription analytics with MRR, churn, LTV, and forecasting. Positioned as the original Stripe analytics tool with built-in dunning (Recover) and cancellation insights. |
 
 ## Open-Source GitHub Projects
 
