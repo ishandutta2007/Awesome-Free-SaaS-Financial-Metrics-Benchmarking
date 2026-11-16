@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking?style=flat-square&color=red" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking?style=flat-square&color=green" alt="License" /></a>
@@ -74,9 +74,9 @@ The industry displays **moderate fragmentation with aggressive consolidation pre
 
 ## 💻 Open-Source GitHub Projects
 
-*Self-hosted subscription intelligence, MRR calculators, and BI platforms for teams seeking 100% data sovereignity, privacy, and zero per-subscriber fees. **Sorted strictly by GitHub Star Count (Descending):***
+*Self-hosted subscription intelligence, MRR calculators, and BI platforms for teams seeking 100% data sovereignity, privacy, and zero per-subscriber fees. **Sorted strictly by GitHub Stars_Count (Descending):***
 
-| Project | Stars | Architecture &amp; Focus | Description &amp; Core Strengths |
+| Project | GitHub_Stars | Architecture &amp; Focus | Description &amp; Core Strengths |
 |---|---|---|---|
 | **[Apache Superset](https://github.com/apache/superset)** | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Python / TypeScript (Enterprise BI) | 🌐 **Enterprise-grade open-source data exploration and BI platform.** Directly queries SQL billing warehouses (ClickHouse, Snowflake, PostgreSQL) to build tailored MRR movement waterfalls, cohort heatmaps, and executive SaaS metric dashboards. |
 | **[Metabase](https://github.com/metabase/metabase)** | [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Clojure / JavaScript (Self-Hosted BI) | 🔍 **The friendliest open-source BI tool.** Connect directly to your Stripe replica or Postgres billing database to build MRR, churn, and LTV charts with no SQL required using the visual Question Builder. |
@@ -111,7 +111,7 @@ Contributions, project suggestions, and documentation improvements are warmly we
 
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/awesome-saas-tool`).
-3. 📝 **Add or Update the Tool** in `README.md` (keep descriptions factual, include exact pricing/limits or star badges, and maintain descending sort order).
+3. 📝 **Add or Update the Tool** in `README.md` (keep descriptions factual, include exact pricing/limits or Stars_Badges, and maintain descending sort order).
 4. ✅ **Ensure Proper Formatting &amp; Links**.
 5. 🚀 **Submit a Pull Request** with a brief summary of why the addition is valuable to the SaaS community.
 
@@ -148,3 +148,12 @@ Your generosity keeps this ecosystem directory free, updated, and community-firs
 <div align="center">
   <b>Built for bootstrapped founders, indie hackers, CFOs, and finance engineering teams worldwide. 🚀</b>
 </div>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Free-SaaS-Financial-Metrics-Benchmarking&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Free-SaaS-Financial-Metrics-Benchmarking_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Free-SaaS-Financial-Metrics-Benchmarking_growth.svg">
+  </picture>
+</a>
