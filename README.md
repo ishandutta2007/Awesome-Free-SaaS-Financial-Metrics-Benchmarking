@@ -1,6 +1,6 @@
 # Awesome-Free-SaaS-Financial-Metrics-Benchmarking
 
-# Top Free SaaS Financial Metrics & Benchmarking Ecosystem
+## Top Free SaaS Financial Metrics & Benchmarking Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on MRR/Churn Analytics, Benchmarking & Self-Hosted Subscription Intelligence*  
